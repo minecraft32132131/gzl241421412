@@ -1,0 +1,17 @@
+Bize destek olmak için;
+
+https://top.gg/bot/729752334527365234/vote
+
+_______________________________________________________________________________________________
+
+
+Avacado Bot'u sunucuna eklemek için;
+
+https://discord.com/oauth2/authorize?client_id=729752334527365234&scope=bot&permissions=8
+
+_______________________________________________________________________________________________
+
+
+Websitemizi ziyaret edebilirsiniz;
+
+https://avacadobot.pw/
